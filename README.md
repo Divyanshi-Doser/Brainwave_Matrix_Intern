@@ -54,5 +54,5 @@ The objective was to perform a complete sales analysis for a commercial retail s
 This was my **first end-to-end data storytelling project**, and it helped me understand how to turn raw data into actionable insights.  
 Looking forward to learning more as I continue this journey in analytics!
 
-📽 **To view the storytelling video**, check my LinkedIn post here: [LinkedIn Post URL](https://www.linkedin.com/)  
+📽 **To view the storytelling video**, check my LinkedIn post here: [LinkedIn Post URL](https://www.linkedin.com/posts/divyanshi-doser_dataanalytics-internshipexperience-python-activity-7334916988613402624-_k8G?utm_source=share&utm_medium=member_android&rcm=ACoAAFn4nbMBzA70MeO-p2EjHsa7DB-bJ35X5lE)  
 _(Replace the above link with your actual post URL)_
