@@ -1,7 +1,6 @@
-# Brainwave_Matrix_Intern
-# Retail Sales Data Analysis 📊
 
-This project was created as part of my first task during the **Data Analytics Internship** at **Brainwave Matrix**.  
+# Retail Sales Data Analysis 📊
+  
 The objective was to perform a complete sales analysis for a commercial retail store — from data cleaning to interactive dashboard and final recommendations.
 
 ## 🔍 Project Overview
